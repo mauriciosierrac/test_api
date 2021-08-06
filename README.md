@@ -66,6 +66,12 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
+Use the Visual Studio Code text editor and install REST CLIENT Pluggin
+
+Use the rest files in /request directory.
+
+![get image]()
+
 ## :checkered_flag: Starting ##
 
 ```bash
