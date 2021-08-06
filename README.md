@@ -1,5 +1,6 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Test_api" />
+  
+  ![logo plugin](https://github.com/mauriciosierrac/test_api/blob/main/restclient.png)
 
   &#xa0;
 
@@ -50,19 +51,16 @@ Projecto sencillo para probar el pluggin REST CLIENT, sin DB, manipula un array 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: API Rest;\
+:heavy_check_mark: Plugins REST CLIENT;\
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -78,10 +76,10 @@ $ git clone https://github.com/mauriciosierrac/test_api
 $ cd test_api
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm run dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
