@@ -1,6 +1,6 @@
 <div align="center" id="top"> 
   
-  ![logo plugin](https://github.com/mauriciosierrac/test_api/blob/main/restclient.png)
+  ![logo plugin](https://github.com/mauriciosierrac/test_api/blob/main/images/restclient.png)
 
   &#xa0;
 
@@ -70,7 +70,7 @@ Use the Visual Studio Code text editor and install REST CLIENT Pluggin
 
 Use the rest files in /request directory.
 
-![get image]()
+![get image](https://github.com/mauriciosierrac/test_api/blob/main/images/get.jpg)
 
 ## :checkered_flag: Starting ##
 
